@@ -17,7 +17,7 @@ body {
     font-size: 14px;
     font-family: 'Source Sans Pro', sans-serif;
     -webkit-font-smoothing: antialiased;
-    background: #E4E4E4;
+    background: #F2EAEB;
 }
 
 ::selection {
@@ -456,7 +456,7 @@ padding-right: 0px;
 border-radius: 0px;
 height: 15px;
 margin-top: 5px;
-background-color: #D6D6D6;
+background-color: #F2EAEB;
 }
 .progress .progress-bar {
 background-color: #F95B93;
