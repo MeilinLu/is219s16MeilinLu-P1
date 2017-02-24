@@ -48,8 +48,8 @@
                 <div id="main-nav" class="collapse navbar-collapse">
                     <ul class="nav navbar-nav" id="mainNav">
                         <li class="active"><a href="#home" class="scroll-link">Home</a></li>
-                        <li><a href="#aboutUs" class="scroll-link">About Us</a></li>
-                        <li><a href="#skills" class="scroll-link">Skills</a></li>
+                        <!--li><a href="#aboutUs" class="scroll-link">About Us</a></li-->
+                        <!--li><a href="#skills" class="scroll-link">Skills</a></li-->
                         <li><a href="#experience" class="scroll-link">Experience</a></li>
                         <li><a href="#portfolio" class="scroll-link">Hobbies</a></li>
                         <li><a href="#contactUs" class="scroll-link">Contact</a></li>
@@ -69,25 +69,31 @@
             <div class="container banner-content">
                 <div id="da-slider" class="da-slider">
                     <div class="da-slide">
-                        <h2>Webdesigner</h2>
-                        <p>Amazing free responsive website for free, enjoy!!!</p>
-                        <div class="da-img"></div>
-                    </div>
-                    <div class="da-slide">
-                        <h2>UX/UI Developer</h2>
-                        <p>I develop website using Bootstrap front-end framework..</p>
-                        <div class="da-img"></div>
-                    </div>
-                    <div class="da-slide">
                         <h2>HTML5/CSS3</h2>
-                        <p>HTML5 is a markup language used for structuring and presenting Web.</p>
+                        <p>HTML5 is a markup language used for structuring and presenting Web. CSS is a style sheet language.</p>
                         <div class="da-img"></div>
                     </div>
                     <div class="da-slide">
                         <h2>JavaScript/jQuery</h2>
-                        <p>jQuery: Write Less, Do More...</p>
+                        <p>JavaScript is a high-level, dynamic, untyped, and interpreted programming language. jQuery is a cross-platform JavaScript library.</p>
                         <div class="da-img"></div>
                     </div>
+                    <div class="da-slide">
+                        <h2>Java</h2>
+                        <p>Java is a general-purpose computer programming language that is concurrent, class-based, object-oriented,and specifically designed to have as few implementation dependencies as possible.</p>
+                        <div class="da-img"></div>
+                    </div>
+                    <div class="da-slide">
+                        <h2>PHP</h2>
+                        <p>PHP is a server-side scripting language designed primarily for web development</p>
+                        <div class="da-img"></div>
+                    </div>
+                    <div class="da-slide">
+                        <h2>Python</h2>
+                        <p>Python is a widely used high-level programming language for general-purpose programming,</p>
+                        <div class="da-img"></div>
+                    </div>
+
 				<!--  <nav class="da-arrows">
                         <span class="da-arrows-prev"></span>
                         <span class="da-arrows-next"></span>
@@ -99,52 +105,54 @@
     <section id="introText">
         <div class="container">
             <div class="text-center">
-            <h1>I create beautiful responsive websites, Yes I am a UX geek</h1>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse interdum erat et neque tincidunt volutpat. Cras eget augue id dui varius pretium. Cras posuere dolor risus. Pellentesque elementum ultricies quam, sit amet rhoncus nisl viverra in. Cras imperdiet nisi a euismod molestie. Ut a metus arcu. Pellentesque feugiat dictum erat. Nulla vehicula condimentum purus, quis imperdiet nisl ultricies eleifend. Nulla quis rhoncus risus. Ut vel vehicula urna.</p>
+            <h1>I create beautiful responsive websites, and creat useful web applications.</h1>
+              <p>My name is Meilin Lu. I am a NJIT student major in Web Information Systems. I world like to become a programmer to create becatiful websites and useful web applications. My educational goal is graduate before 2018. My career goal is getting a job and exactly working on web application development. My personal goal is to build my own E - commerce exchange platform, and use my own application for all transactions.</p>
             </div>
         </div>
 
     </section>
-    <!--About-->
+    <!--About>
     <section id="aboutUs" class="secPad">
         <div class="container">
             <div class="heading text-center">
                 <!-- Heading -->
-                <h2>I am Sam, a UI Designer & developer</h2>
+                <!--h2>I am Sam, a UI Designer & developer</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
             </div>
-            <div class="row">
+            <div class="row"-->
                 <!-- item -->
-                <div class="col-md-4 text-center tileBox">
+                <!--div class="col-md-4 text-center tileBox">
                    <div class="txtHead"> <i class="fa fa-desktop"></i>
                     <h3>Responsive <span class="id-color">Design</span></h3></div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse interdum erat et neque tincidunt volutpat. Cras eget augue id dui varius pretium.</p>
-                </div>
+                </div-->
                 <!-- end: -->
 
                 <!-- item -->
-                <div class="col-md-4 text-center tileBox">
+                <!--div class="col-md-4 text-center tileBox">
                     <div class="txtHead"><i class="fa fa-css3"></i>
                     <h3>HTML5/CSS3 <span class="id-color">Dev</span></h3></div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse interdum erat et neque tincidunt volutpat. Cras eget augue id dui varius pretium.</p>
-                </div>
+                </div-->
                 <!-- end: -->
 
                 <!-- item -->
-                <div class="col-md-4 text-center tileBox">
+                <!--div class="col-md-4 text-center tileBox">
                     <div class="txtHead"><i class="fa fa-lightbulb-o"></i>
                     <h3>JavaScript <span class="id-color">jQuery</span></h3></div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse interdum erat et neque tincidunt volutpat. Cras eget augue id dui varius pretium.</p>
-                </div>
+                </div-->
                 <!-- end: -->
-            </div>
+            <!--/div>
         </div>
-    </section>
+    </section-->
+
     <!--Quote-->
     <section id="quote" class="bg-parlex">
         <div class="parlex-back">
             <div class="container secPad text-center">
-				<h2>If I asked people what they wanted, they would have said ‘Faster Horses’.</h2><h3>-Henry Ford</h3>
+				<h2>Never underestimate your power to change yourself. Never overestimate your power to change others.</h2>
+        <h3>- H. Jackson Brown, Jr</h3>
             </div>
             <!--/.container-->
         </div>
@@ -156,21 +164,21 @@
         <div class="heading text-center">
                 <!-- Heading -->
                 <h2>My Skills</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing</p>
+                <!--p>Lorem ipsum dolor sit amet, consectetur adipiscing</p-->
             </div>
         	<div class="row">
                 <div class="col-sm-6">
-                    <h2>Programming <strong>Skills</strong></h2>
+                    <!--h2>Programming <strong>Skills</strong></h2>
                     <p class="mrgBtm20">
                         It takes knowledge, smart work, and dedication to make great ideas come to life. I have been helping make great ideas happen for the past 7 years and am always ready for new challenges.
 
-                    </p>
+                    </p-->
                     <div class="row">
                         <div class="col-md-2 skilltitle">HTML5</div>
                         <div class="col-md-8">
                             <div class="progress">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%;">
-                                    <span class="sr-only">90% Complete</span>
+                                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%;">
+                                    <span class="sr-only">80% Complete</span>
                                 </div>
                             </div>
                         </div>
@@ -179,8 +187,8 @@
                         <div class="col-md-2 skilltitle">CSS/CC3</div>
                         <div class="col-md-8">
                             <div class="progress">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%;">
-                                    <span class="sr-only">90% Complete</span>
+                                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%;">
+                                    <span class="sr-only">80% Complete</span>
                                 </div>
                             </div>
                         </div>
@@ -189,55 +197,55 @@
                         <div class="col-md-2 skilltitle">JavaScript</div>
                         <div class="col-md-8">
                             <div class="progress">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%;">
-                                    <span class="sr-only">80% Complete</span>
+                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%;">
+                                    <span class="sr-only">70% Complete</span>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-md-2 skilltitle">jQuery/Ajax</div>
+                        <div class="col-md-2 skilltitle">jQuery</div>
                         <div class="col-md-8">
                             <div class="progress">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%;">
-                                    <span class="sr-only">90% Complete</span>
+                                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;">
+                                    <span class="sr-only">60% Complete</span>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-sm-6">
-                    <h2>Designing <strong>Skills</strong></h2>
+                    <!--h2>Designing <strong>Skills</strong></h2>
                     <p class="mrgBtm20">
                         Problem solving is not always about sitting in a board room talking about the way things should be done. I have a strong background in UI design which allows me to think on my feet and act upon it.
 
-                    </p>
+                    </p-->
                     <div class="row">
-                        <div class="col-md-2 skilltitle">Photoshop</div>
+                        <div class="col-md-2 skilltitle">Java</div>
                         <div class="col-md-8">
                             <div class="progress">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%;">
-                                    <span class="sr-only">90% Complete</span>
+                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%;">
+                                    <span class="sr-only">70% Complete</span>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-md-2 skilltitle">Illustrator</div>
+                        <div class="col-md-2 skilltitle">PHP</div>
                         <div class="col-md-8">
                             <div class="progress">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%;">
-                                    <span class="sr-only">80% Complete</span>
+                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%;">
+                                    <span class="sr-only">70% Complete</span>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-md-2 skilltitle">Indesign</div>
+                        <div class="col-md-2 skilltitle">Python</div>
                         <div class="col-md-8">
                             <div class="progress">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%;">
-                                    <span class="sr-only">75% Complete</span>
+                                <div class="progress-bar" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style="width: 65%;">
+                                    <span class="sr-only">65% Complete</span>
                                 </div>
                             </div>
                         </div>
@@ -252,21 +260,20 @@
     	<div class="container">
            <div class="heading text-center">
                 <!-- Heading -->
-                <h2>Educational Experience</h2>
-                <p>This is a short introduction about my educational experience </p>
+                <h2>Educational Experience / Work Experience</h2>
+                <p>This is a short introduction about my educational experience and my work experience</p>
             </div>
-        <div id="timeline"><div class="row timeline-movement timeline-movement-top">
-        <div class="timeline-badge timeline-future-movement">
-            <a href="#">
-                <span class="glyphicon glyphicon-plus"></span>
-            </a>
-        </div>
-        <div class="timeline-badge timeline-filter-movement">
+            <div id="timeline"><div class="row timeline-movement timeline-movement-top">
+                <div class="timeline-badge timeline-future-movement">
+                    <a href="#">
+                    <span class="glyphicon glyphicon-plus"></span>
+                    </a>
+                </div>
+                <div class="timeline-badge timeline-filter-movement">
             <a href="#">
                 <span class="glyphicon glyphicon-time"></span>
             </a>
         </div>
-
     </div>
     <div class="row timeline-movement">
 
@@ -304,16 +311,34 @@
                 </div>
             </div>
         </div-->
-    </div>
+      </div>
 
     <!--due -->
 
+      <div class="row timeline-movement">
+          <div class="timeline-badge">
+              <span class="timeline-balloon-date-day">Jan</span>
+              <span class="timeline-balloon-date-month">2014</span>
+          </div>
+        <div class="col-sm-6  timeline-item">
+            <div class="row">
+                <div class="col-sm-11">
+                    <div class="timeline-panel credits">
+                        <ul class="timeline-panel-ul">
+                            <li><span class="importo">George Mason University</span></li>
+                            <li><span class="causale">Major: Business. </span> </li>
+                            <li><p><small class="text-muted"> 1/14/2014 - 5/20/2014</small></p> </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--due -->
     <div class="row timeline-movement">
-
-
         <div class="timeline-badge">
-            <span class="timeline-balloon-date-day">Jan</span>
-            <span class="timeline-balloon-date-month">2014</span>
+            <span class="timeline-balloon-date-day">Mar</span>
+            <span class="timeline-balloon-date-month">2013</span>
         </div>
 
         <div class="col-sm-offset-6 col-sm-6  timeline-item">
@@ -321,9 +346,9 @@
                 <div class="col-sm-offset-1 col-sm-11">
                     <div class="timeline-panel debits">
                         <ul class="timeline-panel-ul">
-                            <li><span class="importo">George Mason University</span></li>
-                            <li><span class="causale">Major: Business. </span> </li>
-                            <li><p><small class="text-muted"> 1/14/2014 - 5/20/2014</small></p> </li>
+                            <li><span class="importo">Math Tutor</span></li>
+                            <li><span class="causale">NOVA MASTER Math Lab Annandale Campus </span> </li>
+                            <li><p><small class="text-muted"> 10/01/2012 - 12/26/2013</small></p> </li>
                         </ul>
                     </div>
 
@@ -338,22 +363,18 @@
                         <ul class="timeline-panel-ul">
                             <li><span class="importo">Northern Virginia Community College</span></li>
                             <li><span class="causale">Major: Business Administration. </span> </li>
-                            <li><p><small class="text-muted"> 10/03/2013 - 18/02/2014</small></p> </li>
+                            <li><p><small class="text-muted"> 03/10/2013 - 01/01/2014</small></p> </li>
                         </ul>
                     </div>
-
                 </div>
             </div>
         </div>
-
-
     </div>
+    <!--due -->
     <div class="row timeline-movement">
-
-
         <div class="timeline-badge">
             <span class="timeline-balloon-date-day">Jan</span>
-            <span class="timeline-balloon-date-month">2010</span>
+            <span class="timeline-balloon-date-month">2014</span>
         </div>
 
         <div class="col-sm-offset-6 col-sm-6  timeline-item">
@@ -361,9 +382,9 @@
                 <div class="col-sm-offset-1 col-sm-11">
                     <div class="timeline-panel debits">
                         <ul class="timeline-panel-ul">
-                            <li><span class="importo">Mussum ipsum cacilds</span></li>
-                            <li><span class="causale">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </span> </li>
-                            <li><p><small class="text-muted"> 11/01/2010 - 10/03/2013</small></p> </li>
+                            <li><span class="importo">Part Time Tourist Guide   </span></li>
+                            <li><span class="causale">Shenyang Tianhe Tourist Corporation</span> </li>
+                            <li><p><small class="text-muted"> 07/15/2007 - 09/31/2008</small></p> </li>
                         </ul>
                     </div>
 
@@ -376,22 +397,20 @@
                 <div class="col-sm-11">
                     <div class="timeline-panel credits">
                         <ul class="timeline-panel-ul">
-                            <li><span class="importo">Mussum ipsum cacilds</span></li>
-                            <li><span class="causale">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </span> </li>
-                            <li><p><small class="text-muted"> 11/01/2010 - 10/03/2013</small></p> </li>
+                            <li><span class="importo">Northeastern University (Shenyang, China)</span></li>
+                            <li><span class="causale">Major: Russian Language and Literature. </span> </li>
+                            <li><p><small class="text-muted"> 09/01/2005 - 06/28/2009</small></p> </li>
                         </ul>
                     </div>
-
                 </div>
             </div>
         </div>
-
-
+    </div>
+    <!--due -->
     </div>
     </div>
-    </div>
 
-    </section>
+   </section>
 
 
    <!--Portfolio-->
