@@ -500,6 +500,8 @@ background-color: #F95B93;
   border-top-left-radius: 50%;
   border-bottom-right-radius: 50%;
   border-bottom-left-radius: 50%;
+  overflow:hidden;
+
 }
 #timeline .timeline-badge span.timeline-balloon-date-day {
   font-size: 1.4em;

@@ -263,63 +263,46 @@
                 <h2>Educational Experience / Work Experience</h2>
                 <p>This is a short introduction about my educational experience and my work experience</p>
             </div>
-            <div id="timeline"><div class="row timeline-movement timeline-movement-top">
-                <div class="timeline-badge timeline-future-movement">
-                    <a href="#">
-                    <span class="glyphicon glyphicon-plus"></span>
-                    </a>
-                </div>
-                <div class="timeline-badge timeline-filter-movement">
-            <a href="#">
-                <span class="glyphicon glyphicon-time"></span>
-            </a>
-        </div>
-    </div>
-    <div class="row timeline-movement">
-
-        <div class="timeline-badge">
-            <span class="timeline-balloon-date-day">Dec</span>
-            <span class="timeline-balloon-date-month">2015</span>
-        </div>
-
-
-        <div class="col-sm-6  timeline-item">
-            <div class="row">
-                <div class="col-sm-11">
-                    <div class="timeline-panel credits">
-                        <ul class="timeline-panel-ul">
-                            <li><span class="importo">New Jersey Institute of Technology</span></li>
-                            <li><span class="causale">Major: Web Information Systems</span> </li>
-                            <li><p><small class="text-muted"> 12/22/2015 - Present</small></p> </li>
-                        </ul>
+            <div id="timeline">
+              <div class="row timeline-movement timeline-movement-top">
+                  <div class="timeline-badge timeline-future-movement">
+                      <a href="#">
+                      <span class="glyphicon glyphicon-plus"></span>
+                      </a>
+                  </div>
+                  <div class="timeline-badge timeline-filter-movement">
+                      <a href="#">
+                      <span class="glyphicon glyphicon-time"></span>
+                      </a>
+                  </div>
+              </div>
+              <div class="row timeline-movement" >
+                  <!--div class="timeline-badge">
+                  <span class="timeline-balloon-date-day">Dec</span>
+                  <span class="timeline-balloon-date-month">2015</span>
+                </div-->
+                  <div class="col-sm-6  timeline-item">
+                    <div class="row">
+                        <div class="col-sm-11">
+                            <div class="timeline-panel credits">
+                                <ul class="timeline-panel-ul">
+                                    <li><span class="importo">New Jersey Institute of Technology</span></li>
+                                    <li><span class="causale">Major: Web Information Systems</span> </li>
+                                    <li><p><small class="text-muted"> 12/22/2015 - Present</small></p> </li>
+                                </ul>
+                            </div>
+                        </div>
                     </div>
-                </div>
-            </div>
-        </div>
-
-        <!--div class="col-sm-6  timeline-item">
-            <div class="row">
-                <div class="col-sm-offset-1 col-sm-11">
-                    <div class="timeline-panel debits">
-                        <ul class="timeline-panel-ul">
-                            <li><span class="importo">Mussum ipsum cacilds</span></li>
-                            <li><span class="causale">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </span> </li>
-                            <li><p><small class="text-muted"> 18/02/2014 - Present</small></p> </li>
-                        </ul>
-                    </div>
-
-                </div>
-            </div>
-        </div-->
-      </div>
+                  </div>
+              </div>
 
     <!--due -->
 
       <div class="row timeline-movement">
-          <div class="timeline-badge">
+          <!--div class="timeline-badge">
               <span class="timeline-balloon-date-day">Jan</span>
               <span class="timeline-balloon-date-month">2014</span>
-          </div>
+          </div-->
         <div class="col-sm-6  timeline-item">
             <div class="row">
                 <div class="col-sm-11">
@@ -336,10 +319,10 @@
     </div>
     <!--due -->
     <div class="row timeline-movement">
-        <div class="timeline-badge">
+        <!--div class="timeline-badge">
             <span class="timeline-balloon-date-day">Mar</span>
             <span class="timeline-balloon-date-month">2013</span>
-        </div>
+        </div-->
 
         <div class="col-sm-offset-6 col-sm-6  timeline-item">
             <div class="row">
@@ -372,10 +355,10 @@
     </div>
     <!--due -->
     <div class="row timeline-movement">
-        <div class="timeline-badge">
+        <!--div class="timeline-badge">
             <span class="timeline-balloon-date-day">Jan</span>
             <span class="timeline-balloon-date-month">2014</span>
-        </div>
+        </div-->
 
         <div class="col-sm-offset-6 col-sm-6  timeline-item">
             <div class="row">
@@ -435,7 +418,6 @@
                 <div class="col-md-12">
                     <div class="row">
                         <div class="portfolio-items isotopeWrapper clearfix" id="3">
-
                             <article class="col-sm-4 isotopeItem webdesign">
                                 <div class="portfolio-item">
                                     <img src="images/portfolio/img1.jpg" alt="" />
